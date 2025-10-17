@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/baner.png" />
 
-## [Todo app](https://todo-listapp-indol.vercel.app/ )
+## [Todo app Link](https://todo-listapp-indol.vercel.app/ )
 
  
 
