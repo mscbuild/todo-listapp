@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/baner.png" />
 
-## [Example Link](https://todo-listapp-indol.vercel.app/ )
+## [Todo app](https://todo-listapp-indol.vercel.app/ )
 
  
 
@@ -162,4 +162,4 @@ The app will now be running at [http://localhost:5173/](http://localhost:5173/).
 
 ## License
 
- licensed under [MIT](https://github.com/mscbuild/todo-listapp/blob/main/LICENSE).
+Licensed under [MIT](https://github.com/mscbuild/todo-listapp/blob/main/LICENSE).
